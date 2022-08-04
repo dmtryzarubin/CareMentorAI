@@ -1,0 +1,13 @@
+{
+  "logdir": "./logdir/DeepLabV3Plus/tu-mobilenetv3_small_075/checkpoints",
+  "topk": 1,
+  "loader_key": "valid",
+  "metric_key": "dice/_micro",
+  "minimize": false,
+  "storage": [
+    {
+      "logpath": "./logdir/DeepLabV3Plus/tu-mobilenetv3_small_075/checkpoints/model.0076.pth",
+      "metric": 0.9198401570320129
+    }
+  ]
+}
